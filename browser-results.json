@@ -1,0 +1,22 @@
+[
+  {
+    "width": 1280,
+    "sentinelPositions": [
+      238.3125,
+      509.1875
+    ],
+    "layoutShift": 0,
+    "reducedMotion": "pass",
+    "disclosure": "pass"
+  },
+  {
+    "width": 390,
+    "sentinelPositions": [
+      238.3125,
+      509.1875
+    ],
+    "layoutShift": 0,
+    "reducedMotion": "pass",
+    "disclosure": "pass"
+  }
+]
